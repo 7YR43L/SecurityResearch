@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "AWS App Example",
+    "owner": "MicK",
+    "description": "AWS-hosted AJAX mashup"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "AcceleratorApp",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
